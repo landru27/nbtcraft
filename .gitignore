@@ -1,3 +1,10 @@
+# notes
+notes
+
+# data files
+level.dat*
+
+
 # Binaries for programs and plugins
 *.exe
 *.dll
